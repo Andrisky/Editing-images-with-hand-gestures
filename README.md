@@ -14,15 +14,26 @@ Following are demonstration videos showing some of the system's features:
 * Selection of the image and the operator you want to apply on the selected image
 
 
-https://user-images.githubusercontent.com/46251425/190982174-d9a35271-d1e9-46f7-b654-1bfb80cb04c7.mp4
+
+https://user-images.githubusercontent.com/46251425/190984652-94f32be6-4142-4d34-8182-3febd7a1ef26.mp4
+
+
+
 
 * Gaussian filter application and cropping on the selected image
 
-https://user-images.githubusercontent.com/46251425/190982485-1d70ef60-7161-405c-bfae-6d2526c5aae6.mp4
+
+
+https://user-images.githubusercontent.com/46251425/190984704-c7333607-5d91-4667-a657-b7c9ed10a028.mp4
+
+
 
 * Saving/deleting edited images (unedited images can also be deleted; conversely, an unedited image cannot be saved)
 
 
 
-https://user-images.githubusercontent.com/46251425/190982809-3cd74794-7006-4bab-bd04-3ffa14095c63.mp4
+
+https://user-images.githubusercontent.com/46251425/190984805-12dc664d-e3fd-46f0-a0e5-58750b007230.mp4
+
+
 
