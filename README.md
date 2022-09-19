@@ -6,7 +6,7 @@ image processing techniques. Basically, the system allows to modify images using
 This means that computer vision techniques are applied to make the gestures, while image
 processing techniques are applied to edit the images. However, all the techniques used are
 implemented thanks to the openCV library.
-The attached report explains in detail how the whole system was implemented.
+The attached report, called "Editing_image_with_hand_gestures.pdf", explains in detail how the whole system was implemented.
 
 # Demo
 Following are demonstration videos showing some of the system's features:
