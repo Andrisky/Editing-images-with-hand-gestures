@@ -9,31 +9,10 @@ implemented thanks to the openCV library.
 The attached report, called "Editing_image_with_hand_gestures.pdf", explains in detail how the whole system was implemented.
 
 # Demo
-Following are demonstration videos showing some of the system's features:
+Below a demo video shows some some of the system's features:
 
-* Selection of the image and the operator you want to apply on the selected image
+https://github.com/Andrisky/Editing-images-with-hand-gestures/assets/46251425/1827b6d8-4a88-4369-8775-20dfb042f2b5
 
-
-
-https://user-images.githubusercontent.com/46251425/190984652-94f32be6-4142-4d34-8182-3febd7a1ef26.mp4
-
-
-
-
-* Gaussian filter application and cropping on the selected image
-
-
-
-https://user-images.githubusercontent.com/46251425/190984704-c7333607-5d91-4667-a657-b7c9ed10a028.mp4
-
-
-
-* Saving/deleting edited images (unedited images can also be deleted; conversely, an unedited image cannot be saved)
-
-
-
-
-https://user-images.githubusercontent.com/46251425/190984805-12dc664d-e3fd-46f0-a0e5-58750b007230.mp4
 
 
 
