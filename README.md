@@ -9,7 +9,7 @@ implemented thanks to the openCV library.
 The attached report, called "Editing_image_with_hand_gestures.pdf", explains in detail how the whole system was implemented.
 
 # Demo
-Below a demo video shows some some of the system's features:
+Below a demo video shows some of the system's features:
 
 https://github.com/Andrisky/Editing-images-with-hand-gestures/assets/46251425/1827b6d8-4a88-4369-8775-20dfb042f2b5
 
